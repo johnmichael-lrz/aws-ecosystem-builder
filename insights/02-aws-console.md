@@ -36,16 +36,16 @@ You will use the AWS Management Console for every step of the workshop. You will
 
 ## Key Terms
 
-##AWS Management Console## — the web-based interface where you access and manage AWS services through a browser.
+AWS Management Console — the web-based interface where you access and manage AWS services through a browser.
 
-##Region## — a geographic location where AWS operates data centers. Resources created in one region are only visible when that region is selected in the console.
+Region — a geographic location where AWS operates data centers. Resources created in one region are only visible when that region is selected in the console.
 
-##Region selector## — the dropdown in the top right corner of the console that shows which region you are currently working in and lets you switch between regions.
+Region selector — the dropdown in the top right corner of the console that shows which region you are currently working in and lets you switch between regions.
 
-##Service dashboard## — the page that appears when you navigate to a specific AWS service, showing the resources you have created and options to create new ones.
+Service dashboard — the page that appears when you navigate to a specific AWS service, showing the resources you have created and options to create new ones.
 
-##Root account## — the primary account created when you first sign up for AWS, identified by your email address. It has unrestricted access to everything and should never be used for daily tasks.
+Root account — the primary account created when you first sign up for AWS, identified by your email address. It has unrestricted access to everything and should never be used for daily tasks.
 
-##IAM admin user## — a separate user account created through IAM with administrative permissions, used for everyday work instead of the root account.
+IAM admin user — a separate user account created through IAM with administrative permissions, used for everyday work instead of the root account.
 
-##Search bar## — the input field at the top of the AWS console that lets you find and navigate to any service by name.
+Search bar — the input field at the top of the AWS console that lets you find and navigate to any service by name.
